@@ -2,52 +2,52 @@ const channelsData = [
     
     
     { 
-      id: "tn",
-      name: "TN",
+      id: "Ceylan",
+      name: "Ceylan",
       visibilidad: "",
       tipo: "video",
       source: "https://www.youtube.com/embed/vZmJnYBCPHs?si=v62RphPb6hjVi4AF"
     },
     { 
-        id: "a24",
-        name: "A24",
+        id: "İbrahim Tatlıses",
+        name: "İbrahim Tatlıses",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/vZmJnYBCPHs?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/4DOMcjVNq-w?si=uK4glVvOqkN3fu4x"
     },
     { 
-        id: "c5n",
-        name: "C5N",
+        id: "Gözleri Bela",
+        name: "Gözleri Bela",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/p4gK-_2ZpxQ?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/1xn3nEvc5Oc?si=wJW3VXSoqTdO3oQx"
     },
     { 
-        id: "lanacion",
-        name: "La Nación",
+        id: "Ceylan Ft. Alişan ",
+        name: "Ceylan Ft. Alişan ",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/4e8Iw3Frf1A?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/QkYBMuB6sco?si=T7esQMUYnoj-EcUH"
     },
     { 
-        id: "tvpublica",
-        name: "TV Pública",
+        id: "Ceylan Ft. Alişan",
+        name: "Ceylan Ft. Alişan",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/vyICPqyyULU?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/lzmjXDvK4EA?si=gkAUySMI7ZP3_l6t"
     },
     { 
-        id: "cronica",
-        name: "Crónica TV",
+        id: "Aşkından Yanayım Mı",
+        name: "Aşkından Yanayım Mı",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/avly0uwZzOE?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/3WieehU8a8w?si=F9UsUVtZUA1TMlyf"
       },/*
       { 
-        id: "mediabanco",
-        name: "Media Banco",
+        id: "Sen Affetsen Ben Affetmem",
+        name: "Sen Affetsen Ben Affetmem",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/9LN56F4K_gY?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/BTZp5qfSJNg?si=08hh9pEwpVTGWVpy"
       },
       { 
         id: "biobio",
