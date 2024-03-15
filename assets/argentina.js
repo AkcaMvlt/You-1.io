@@ -41,7 +41,7 @@ const channelsData = [
         visibilidad: "",
         tipo: "video",
         source: "https://www.youtube.com/embed/3WieehU8a8w?si=F9UsUVtZUA1TMlyf"
-      },/*
+      },
       { 
         id: "Sen Affetsen Ben Affetmem",
         name: "Sen Affetsen Ben Affetmem",
@@ -107,7 +107,7 @@ const channelsData = [
           <div id="video" class="video-container" style="--aspect-ratio: 16 / 9;">
               <iframe id="player" width="100%" src="${channel.source}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-          <div class="channel-name"><h4>${channel.name}</h4><a target="_BLANK" href="${channel.source}"><span class="new-window">Ver en otra ventana</span><img width="16px" src="assets/img/Icon material-open-in-new.svg"></a></div>
+          <div class="channel-name"><h4>${channel.name}</h4><a target="_BLANK" href="${channel.source}"><span class="new-window">Turis Tv</span><img width="16px" src="assets/img/Icon material-open-in-new.svg"></a></div>
       </div>
     `;
   }

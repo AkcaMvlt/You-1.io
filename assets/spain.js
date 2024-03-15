@@ -2,31 +2,48 @@ const channelsData = [
     
     
     /*{ 
-      id: "servel",
-      name: "SERVEL",
+      id: "T1",
+      name: "T1",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/k7p6bDhJGlo?autoplay=1&mute=1"
+      source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
     },*/
     { 
-      id: "elpais",
-      name: "El País",
+      id: "Star",
+      name: "Star",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/hRBzDfErMjs?autoplay=1&mute=1&hd=1"
+      source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
     },
     { 
-        id: "rtve",
-        name: "RTVE",
+        id: "Show",
+        name: "Show",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/8GmR9H2iH8Q?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/ouuCjEjyKVI?autoplay=1&mute=1"
     },
+
+
     { 
-        id: "marca",
-        name: "Marca",
+        id: "Show1",
+        name: "Show1",
+        visibilidad: "",
+        source: "https://www.youtube.com/embed/VWLyJsB3bWeiU3mN?autoplay=1&mute=1"
+    },
+
+    { 
+        id: "Atv1",
+        name: "Atv1",
+        visibilidad: "",
+        source: "https://www.youtube.com/embed/dIZ4Gi3lJ5j6MVfV?autoplay=1&mute=1"
+    },
+
+
+    { 
+        id: "Atv",
+        name: "Atv",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/ku8ZJU7D_zE?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/zmFaUZwKVF4?autoplay=1&mute=1"
     },/*
     { 
         id: "chv",
