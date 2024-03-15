@@ -9,26 +9,26 @@ const channelsData = [
       source: "https://www.youtube.com/embed/vZmJnYBCPHs?autoplay=1&mute=1"
 
 
-    },
+    },      
     { 
-        id: "İbrahim Tatlıses",
-        name: "İbrahim Tatlıses",
+        id: "Devamke",
+        name: "Devamke",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/4DOMcjVNq-w?si=uK4glVvOqkN3fu4x"
+      source: "https://www.youtube.com/embed/4DOMcjVNq-w?autoplay=1&mute=1"
     },
-    { 
+    {       
         id: "Gözleri Bela",
         name: "Gözleri Bela",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/1xn3nEvc5Oc?si=wJW3VXSoqTdO3oQx"
+      source: "https://www.youtube.com/embed/1xn3nEvc5Oc?autoplay=1&mute=1"
     },
     { 
         id: "Ceylan Ft. Alişan ",
         name: "Ceylan Ft. Alişan ",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/QkYBMuB6sco?si=T7esQMUYnoj-EcUH"
+      source: "https://www.youtube.com/embed/QkYBMuB6sco?autoplay=1&mute=1"
     },
     { 
         id: "Ceylan Ft. Alişan",
@@ -41,8 +41,8 @@ const channelsData = [
         id: "Aşkından Yanayım Mı",
         name: "Aşkından Yanayım Mı",
         visibilidad: "",
-        tipo: "video",
-        source: "https://www.youtube.com/embed/3WieehU8a8w?si=F9UsUVtZUA1TMlyf"
+        tipo: "video",        
+      source: "https://www.youtube.com/embed/lzmjXDvK4EA?autoplay=1&mute=1"
       },
       { 
         id: "Sen Affetsen Ben Affetmem",
