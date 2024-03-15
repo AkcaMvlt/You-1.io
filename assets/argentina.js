@@ -50,24 +50,25 @@ const channelsData = [
         source: "https://www.youtube.com/embed/BTZp5qfSJNg?si=08hh9pEwpVTGWVpy"
       },
       { 
-        id: "biobio",
-        name: "Bio bio",
+        id: "Birileri Kandırmış",
+        name: "Birileri Kandırmış",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/kwVRXc6AG3M?autoplay=1&mute=1"
-      },{ 
-        id: "copano",
-        name: "Copano",
-        visibilidad: "",
-        tipo: "video",
-        source: "https://www.youtube.com/embed/M10BmZ__V7Q?autoplay=1&mute=1"
-      },/*
+        source: "https://www.youtube.com/embed/aRbj2MzaCFA?autoplay=1&mute=1"
+      },
       { 
-          id: "adnradio",
-          name: "ADN Radio",
+        id: "Her Şeyim Oldun Benim",
+        name: "Her Şeyim Oldun Benim",
+        visibilidad: "",
+        tipo: "video",
+        source: "https://www.youtube.com/embed/pF99jsq4I0k?autoplay=1&mute=1"
+      },
+      { 
+          id: "Elimde Fotoğrafın",
+          name: "Elimde Fotoğrafın",
           visibilidad: "",
           tipo: "video",
-          source: "https://www.youtube.com/embed/DwiPDjo2Bo8?autoplay=1&mute=1"
+          source: "https://www.youtube.com/embed/VTkoxK4n3kM?autoplay=1&mute=1"
         },
       { 
         id: "tvu",
@@ -75,7 +76,7 @@ const channelsData = [
         visibilidad: "",
         tipo: "video",
         source: "https://rudo.video/live/tvu?volume=0&mute=1"
-      },
+      },/*
       { 
         id: "c9",
         name: "C9",
