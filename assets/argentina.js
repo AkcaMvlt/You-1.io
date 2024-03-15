@@ -80,6 +80,13 @@ const channelsData = [
           source: "https://www.youtube.com/embed/3PCZFXU6n-M?autoplay=1&mute=1"
         },
 
+    { 
+      id: "Fatih Bulut - Yırtıl",
+      name: "Fatih Bulut - Yırtıl",
+      visibilidad: "",
+      tipo: "video",
+      source: "https://www.youtube.com/embed/VXo-0yX2fcs?si=B1tlTgpKGylcdcn_"
+    },
 
 
 
