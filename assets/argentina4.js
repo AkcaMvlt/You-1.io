@@ -8,61 +8,7 @@ const channelsData = [
 
 
 
-    { 
-      id: "Bana Neler Vadettin",
-      name: "Bana Neler Vadettin",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/6N9BLjT7HbI?autoplay=1&mute=1"
-    },
-
-
-    { 
-      id: "Evlat Acısı",
-      name: "Evlat Acısı",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/aNBY-u5-6MM?autoplay=1&mute=1"
-    },
-
-    { 
-      id: "Evlat Acısı",
-      name: "Evlat Acısı",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/pzdx3Cwe-4M?autoplay=1&mute=1"
-    },
-
-
-
-    { 
-      id: "Evlat Acısı",
-      name: "Evlat Acısı",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/NjTdLUbj20k?autoplay=1&mute=1"
-    },
-
-
-
-    { 
-      id: "Evlat Acısı",
-      name: "Evlat Acısı",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/Or_V_s2xvPo?autoplay=1&mute=1"
-    },
-
-
-
-
-    { 
-      id: "sen küçüksün ölemezsin",
-      name: "sen küçüksün ölemezsin",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/8kYksJ8hJhA?autoplay=1&mute=1"
-    },
+ 
 
     { 
       id: "Yedin Yavrum Omrum Yedin",
