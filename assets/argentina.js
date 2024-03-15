@@ -90,6 +90,22 @@ const channelsData = [
           source: "https://www.youtube.com/embed/6N9BLjT7HbI?autoplay=1&mute=1"
     },
 
+
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/aNBY-u5-6MM?autoplay=1&mute=1"
+    },
+
+
+
+
+
+
+
+
     { 
       id: "sen küçüksün ölemezsin",
       name: "sen küçüksün ölemezsin",
@@ -97,6 +113,81 @@ const channelsData = [
       tipo: "video",
           source: "https://www.youtube.com/embed/8kYksJ8hJhA?autoplay=1&mute=1"
     },
+
+    { 
+      id: "Yedin Yavrum Omrum Yedin",
+      name: "Yedin Yavrum Omrum Yedin",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/nubm-wKzgto?autoplay=1&mute=1"
+    },
+
+    { 
+      id: "Yetim Yavrum",
+      name: "Yetim Yavrum",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/qU3y-LzDazc?autoplay=1&mute=1"
+    },
+    { 
+      id: "Yetim Yavrum",
+      name: "Yetim Yavrum",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/HcanE_sJyq8?autoplay=1&mute=1"
+    },
+
+
+    { 
+      id: "Yetim Yavrum",
+      name: "Yetim Yavrum",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/JasM6aI1rMA?autoplay=1&mute=1"
+    },
+
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/f9F6B0I2OzQ?autoplay=1&mute=1"
+    },
+    { 
+      id: "Yetim Yavrum ",
+      name: "Yetim Yavrum ",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/bmqOVWSXTXg?autoplay=1&mute=1"
+    },
+    { 
+      id: "Yetim Yavrum ",
+      name: "Yetim Yavrum ",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/bs4eji6HhFE?autoplay=1&mute=1"
+    },
+
+    { 
+      id: "Yetim Yavrum ",
+      name: "Yetim Yavrum ",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/VDPN1JIuluQ?autoplay=1&mute=1"
+    },
+
+
+
+    { 
+      id: "Mühür Gözlüm",
+      name: "Mühür Gözlüm",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/7Hp69yNvOAE?autoplay=1&mute=1"
+    },
+
+
+
     { 
       id: "sen küçüksün ölemezsin",
       name: "sen küçüksün ölemezsin",
