@@ -1,46 +1,93 @@
 const channelsData = [
     
     
+
+
+      { 
+        id: "Sen Affetsen Ben Affetmem",
+        name: "Sen Affetsen Ben Affetmem",
+        visibilidad: "",
+        tipo: "video",       
+      source: "https://www.youtube.com/embed/2Mg7xErW_1c?autoplay=1&mute=1"
+      },
+      { 
+        id: "Birileri Kandırmış",
+        name: "Birileri Kandırmış",
+        visibilidad: "",
+        tipo: "video",
+        source: "https://www.youtube.com/embed/aRbj2MzaCFA?autoplay=1&mute=1"
+      },
+      { 
+        id: "Her Şeyim Oldun Benim",
+        name: "Her Şeyim Oldun Benim",
+        visibilidad: "",
+        tipo: "video",
+        source: "https://www.youtube.com/embed/pF99jsq4I0k?autoplay=1&mute=1"
+      },
+      { 
+          id: "Elimde Fotoğrafın",
+          name: "Elimde Fotoğrafın",
+          visibilidad: "",
+          tipo: "video",
+          source: "https://www.youtube.com/embed/VTkoxK4n3kM?autoplay=1&mute=1"
+        },
+
+
+      { 
+          id: "Kostak & Nolur Hey",
+          name: "Kostak & Nolur Hey",
+          visibilidad: "",
+          tipo: "video",
+          source: "https://www.youtube.com/embed/3PCZFXU6n-M?autoplay=1&mute=1"
+        },
+
     { 
-      id: "Ceylan",
-      name: "Ceylan",
+      id: "Bana Neler Vadettin",
+      name: "Bana Neler Vadettin",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/vZmJnYBCPHs?autoplay=1&mute=1"
+          source: "https://www.youtube.com/embed/6N9BLjT7HbI?autoplay=1&mute=1"
+    },,/*
 
 
-    },      
-    { 
-        id: "Devamke",
-        name: "Devamke",
-        visibilidad: "",
-      source: "https://www.youtube.com/embed/4DOMcjVNq-w?autoplay=1&mute=1"
-    },
-    {       
-        id: "Gözleri Bela",
-        name: "Gözleri Bela",
-        visibilidad: "",
-        tipo: "video",
-      source: "https://www.youtube.com/embed/1xn3nEvc5Oc?autoplay=1&mute=1"
-    },
-    { 
-        id: "Ceylan Ft. Alişan ",
-        name: "Ceylan Ft. Alişan ",
-        visibilidad: "",
-        tipo: "video",
-      source: "https://www.youtube.com/embed/QkYBMuB6sco?autoplay=1&mute=1"
-    },
+ 
+
+ 
 
 
 
 
-      {                 
-        id: "Ben Ne Yangınlar Gördüm",
-        name: "Ben Ne Yangınlar Gördüm",
-        visibilidad: "",
-        tipo: "video",
-          source: "https://www.youtube.com/embed/INBFgDVUUj0?autoplay=1&mute=1"
-      },/*
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
       { 
         id: "c9",
         name: "C9",
