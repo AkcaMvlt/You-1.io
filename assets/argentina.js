@@ -34,8 +34,8 @@ const channelsData = [
         id: "Ceylan Ft. Alişan",
         name: "Ceylan Ft. Alişan",
         visibilidad: "",
-        tipo: "video",
-        source: "https://www.youtube.com/embed/lzmjXDvK4EA?si=gkAUySMI7ZP3_l6t"
+        tipo: "video",      
+      source: "https://www.youtube.com/embed/KBq-Z-pv6Ck?autoplay=1&mute=1"
     },
     { 
         id: "Aşkından Yanayım Mı",
@@ -48,8 +48,8 @@ const channelsData = [
         id: "Sen Affetsen Ben Affetmem",
         name: "Sen Affetsen Ben Affetmem",
         visibilidad: "",
-        tipo: "video",
-        source: "https://www.youtube.com/embed/BTZp5qfSJNg?si=08hh9pEwpVTGWVpy"
+        tipo: "video",       
+      source: "https://www.youtube.com/embed/2Mg7xErW_1c?autoplay=1&mute=1"
       },
       { 
         id: "Birileri Kandırmış",
@@ -83,12 +83,64 @@ const channelsData = [
         },
 
     { 
-      id: "Fatih Bulut - Yırtıl",
-      name: "Fatih Bulut - Yırtıl",
+      id: "Bana Neler Vadettin",
+      name: "Bana Neler Vadettin",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/VXo-0yX2fcs?si=B1tlTgpKGylcdcn_"
+          source: "https://www.youtube.com/embed/6N9BLjT7HbI?autoplay=1&mute=1"
     },
+
+    { 
+      id: "sen küçüksün ölemezsin",
+      name: "sen küçüksün ölemezsin",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/8kYksJ8hJhA?autoplay=1&mute=1"
+    },
+    { 
+      id: "sen küçüksün ölemezsin",
+      name: "sen küçüksün ölemezsin",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/go80wKF-LVI?autoplay=1&mute=1"
+    },
+
+    { 
+      id: "Yaramsın",
+      name: "Yaramsın",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/RXfyJquWvG4?autoplay=1&mute=1"
+    },
+
+
+    { 
+      id: "Hayatım Paramparça",
+      name: "Hayatım Paramparça",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/7WE4qoMxPUk?autoplay=1&mute=1"
+    },
+
+
+    { 
+      id: "Çay var mı çay",
+      name: "Çay var mı çay",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/nHm3d97YSUA?autoplay=1&mute=1"
+    },
+
+
+
+    { 
+      id: "Acıların Kadını",
+      name: "Acıların Kadını",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/NbSwsyg3QVs?autoplay=1&mute=1"
+    },
+
 
 
 
