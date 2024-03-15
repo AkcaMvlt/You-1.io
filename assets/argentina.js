@@ -70,12 +70,12 @@ const channelsData = [
           tipo: "video",
           source: "https://www.youtube.com/embed/VTkoxK4n3kM?autoplay=1&mute=1"
         },
-      { 
-        id: "tvu",
-        name: "TVU",
+      {                 
+        id: "Ben Ne Yangınlar Gördüm",
+        name: "Ben Ne Yangınlar Gördüm",
         visibilidad: "",
         tipo: "video",
-        source: "https://rudo.video/live/tvu?volume=0&mute=1"
+          source: "https://www.youtube.com/embed/INBFgDVUUj0?autoplay=1&mute=1"
       },/*
       { 
         id: "c9",
