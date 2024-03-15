@@ -70,6 +70,19 @@ const channelsData = [
           tipo: "video",
           source: "https://www.youtube.com/embed/VTkoxK4n3kM?autoplay=1&mute=1"
         },
+
+
+      { 
+          id: "Kostak & Nolur Hey",
+          name: "Kostak & Nolur Hey",
+          visibilidad: "",
+          tipo: "video",
+          source: "https://www.youtube.com/embed/3PCZFXU6n-M?autoplay=1&mute=1"
+        },
+
+
+
+
       {                 
         id: "Ben Ne Yangınlar Gördüm",
         name: "Ben Ne Yangınlar Gördüm",
