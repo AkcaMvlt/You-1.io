@@ -1,61 +1,6 @@
 const channelsData = [
     
  
-
-
-
-
-
-
-
- 
-
-    { 
-      id: "Yedin Yavrum Omrum Yedin",
-      name: "Yedin Yavrum Omrum Yedin",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/nubm-wKzgto?autoplay=1&mute=1"
-    },
-
-    { 
-      id: "Yetim Yavrum",
-      name: "Yetim Yavrum",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/qU3y-LzDazc?autoplay=1&mute=1"
-    },
-    { 
-      id: "Yetim Yavrum",
-      name: "Yetim Yavrum",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/HcanE_sJyq8?autoplay=1&mute=1"
-    },
-
-
-    { 
-      id: "Yetim Yavrum",
-      name: "Yetim Yavrum",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/JasM6aI1rMA?autoplay=1&mute=1"
-    },
-
-    { 
-      id: "Evlat Acısı",
-      name: "Evlat Acısı",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/f9F6B0I2OzQ?autoplay=1&mute=1"
-    },
-    { 
-      id: "Yetim Yavrum ",
-      name: "Yetim Yavrum ",
-      visibilidad: "",
-      tipo: "video",
-          source: "https://www.youtube.com/embed/bmqOVWSXTXg?autoplay=1&mute=1"
-    },
     { 
       id: "Yetim Yavrum ",
       name: "Yetim Yavrum ",
