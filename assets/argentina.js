@@ -6,7 +6,7 @@ const channelsData = [
       name: "Ceylan",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/vZmJnYBCPHs?autoplay=1&mute=1"
+      source: "https://www.youtube.com/embed/vZmJnYBCPHs?autoplay=1"
 
 
     },
