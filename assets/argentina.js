@@ -99,9 +99,33 @@ const channelsData = [
           source: "https://www.youtube.com/embed/aNBY-u5-6MM?autoplay=1&mute=1"
     },
 
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/pzdx3Cwe-4M?autoplay=1&mute=1"
+    },
 
 
 
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/NjTdLUbj20k?autoplay=1&mute=1"
+    },
+
+
+
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/Or_V_s2xvPo?autoplay=1&mute=1"
+    },
 
 
 
@@ -195,6 +219,35 @@ const channelsData = [
       tipo: "video",
           source: "https://www.youtube.com/embed/go80wKF-LVI?autoplay=1&mute=1"
     },
+
+
+    { 
+      id: "sen küçüksün ölemezsin",
+      name: "sen küçüksün ölemezsin",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/rAfJdUuvVfo?autoplay=1&mute=1"
+    },
+
+    { 
+      id: "Evlat Acısı",
+      name: "Evlat Acısı",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/r10pCo037Bc?autoplay=1&mute=1"
+    },
+
+
+
+
+    { 
+      id: "GİDİYORUM HABERİN OLSUN",
+      name: "GİDİYORUM HABERİN OLSUN",
+      visibilidad: "",
+      tipo: "video",
+          source: "https://www.youtube.com/embed/BoDsXvOizRk?autoplay=1&mute=1"
+    },
+
 
     { 
       id: "Yaramsın",
